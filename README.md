@@ -32,4 +32,5 @@
   - [x] 보너스 번호가 1~45 범위를 벗어난 경우
 
 ## ✅ 후기
-<a href='https://velog.io/@hoon0123/%EC%9A%B0%ED%85%8C%EC%BD%94-5%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0'>후기링크</a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoon0123&slug=우테코-5기-프리코스-3주차-회고&color=dark)](https://velog.io/@hoon0123/%EC%9A%B0%ED%85%8C%EC%BD%94-5%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+
